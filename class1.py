@@ -24,16 +24,3 @@ if float(val2) == 0:
 else:
     div = (val1 / val2)+val3
     print("The result of the division is: ", div)
-
-
-
-int1 = float(input("Enter your value:"))
-int2 = float(input("Enter the value:" ))
-print(int1)
-print(int2)
-
-print(int2 - int1)
-print(int1+int2)
-print(int1*int2)
-print(int1**int2)
-print(int1/int2)
